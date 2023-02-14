@@ -1,0 +1,48 @@
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.exe
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.deps.json
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.runtimeconfig.json
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.runtimeconfig.dev.json
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.dll
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.pdb
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.Encode.resources
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.Anasayfa.resources
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.AssemblyInfo.cs
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.dll
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.pdb
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.genruntimeconfig.cache
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.Decode.resources
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.RsaDecode.resources
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.RsaEncode.resources
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.csproj.CopyComplete
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.Properties.Resources.resources
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.exe
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.deps.json
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.runtimeconfig.json
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.runtimeconfig.dev.json
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.dll
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\güvenli haberleşme.pdb
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.csproj.AssemblyReference.cache
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.Decode.resources
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.Encode.resources
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.Anasayfa.resources
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.Properties.Resources.resources
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.RsaDecode.resources
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.RsaEncode.resources
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.csproj.GenerateResource.cache
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.AssemblyInfoInputs.cache
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.AssemblyInfo.cs
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.csproj.CoreCompileInputs.cache
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.csproj.CopyComplete
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.dll
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.pdb
+C:\Users\burak\Downloads\güvenli haberleşme-20230104T071610Z-001\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli haberleşme.genruntimeconfig.cache
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.AesEncode.resources
+C:\Users\burak\Desktop\erciyes üniversitesi\4. grade fall\Bitirme Ödevi\güvenli haberleşme\güvenli haberleşme\obj\Debug\netcoreapp3.1\güvenli_haberleşme.AesDecode.resources
